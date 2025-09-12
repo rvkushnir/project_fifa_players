@@ -7,3 +7,5 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rvkushnir/project_fifa_players/blob/main/notebooks/02_analytical_block.ipynb)
 
 ## Структура
+
+покладіть players.csv у data/raw/ локально
