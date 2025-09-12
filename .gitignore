@@ -205,3 +205,44 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ---- Дополнения для нашего проекта ----
+
+# OS мусор
+.DS_Store
+Thumbs.db
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit секреты (если будут)
+.streamlit/secrets.toml
+
+# Артефакты и аутпуты
+out/
+models/
+artifacts/
+
+# Данные: не коммитим сирі та кеші
+data/interim/
+data/processed/
+
+# Сырые данные держим локально (в репо оставляем только заглушки)
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
+
+# Тяжелые файлы и бинарники моделей
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+*.csv.gz
+
