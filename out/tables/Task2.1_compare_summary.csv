@@ -1,0 +1,2 @@
+n_overall,n_wage,intersection,union,jaccard,overlap_coefficient
+100,100,68,132,0.5152,0.68
