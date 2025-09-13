@@ -246,11 +246,14 @@ data/raw/*
 *.onnx
 *.csv.gz
 
-# Ignore everything in out by default
-out/*
-# Allow tables folder itself
-!out/tables/
-# Ignore everything inside tables...
-out/tables/*
+# Ignore всё в out по умолчанию...
+/out/*
+# ...но оставляем саму папку out видимой
+!/out/
+# Разрешаем подпапку tables
+!/out/tables/
+# По умолчанию внутри tables игнорим всё
+/out/tables/*
 # ...кроме CSV
-!out/tables/*.csv
+!/out/tables/*.csv
+
