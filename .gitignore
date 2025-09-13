@@ -246,9 +246,9 @@ data/raw/*
 *.onnx
 *.csv.gz
 
-# Ignore всё в out по умолчанию...
+# Ignore всё в out по умолчанию
 /out/*
-# ...но оставляем саму папку out видимой
+# Разрешаем саму папку out
 !/out/
 # Разрешаем подпапку tables
 !/out/tables/
@@ -256,4 +256,5 @@ data/raw/*
 /out/tables/*
 # ...кроме CSV
 !/out/tables/*.csv
+
 
