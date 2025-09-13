@@ -257,4 +257,7 @@ data/raw/*
 # ...кроме CSV
 !/out/tables/*.csv
 
+!/out/figures/
+!/out/figures/*.png
+
 
