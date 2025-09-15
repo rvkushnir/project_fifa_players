@@ -1,0 +1,998 @@
+feature,rf_importance
+defending,0.03975134925546901
+defending_marking_awareness,0.03586192040069838
+mentality_interceptions,0.03552923581870345
+attacking_finishing,0.03473890314418368
+attacking_heading_accuracy,0.03454744202300674
+attacking_crossing,0.03450889235706961
+nation_team_id,0.033981335773030724
+mentality_positioning,0.03262050458468037
+skill_dribbling,0.027301742380674014
+shooting,0.024754289249913918
+power_long_shots,0.024571804295346892
+playmake_idx,0.02429180393044837
+attacking_volleys,0.023729022803035873
+skill_long_passing,0.022370117528668732
+work_rate_def,0.021215086011528966
+mentality_vision,0.020569251956159836
+movement_acceleration,0.019470160731020727
+power_strength,0.019124768117456132
+mentality_penalties,0.018314577359425696
+attacking_short_passing,0.017895244941209008
+skill_curve,0.01762488080047133
+skill_ball_control,0.01740351194873622
+pace,0.017366736535223942
+skill_fk_accuracy,0.017214440039079026
+movement_sprint_speed,0.017065462433440145
+goalkeeping_diving,0.017025245070022142
+dribbling,0.016963536555784246
+passing,0.016624107482267055
+skill_moves,0.016313914772291823
+mentality_aggression,0.016175551361038085
+height_cm,0.014537719654293289
+power_stamina,0.014237527320138004
+phys_idx,0.014132874677814539
+movement_agility,0.014045428074283517
+physic,0.013577399269760098
+power_shot_power,0.012865334642774647
+power_jumping,0.012760902048545934
+movement_balance,0.012259932770576763
+preferred_foot_Left,0.01143441800602633
+preferred_foot_Right,0.01115148757099839
+weight_kg,0.010917984421858127
+is_left,0.010764312113072345
+overall,0.009713030090824956
+mentality_composure,0.009584823452720206
+value_eur,0.00857420628895043
+movement_reactions,0.008143161902352432
+club_team_id,0.007022459980411103
+bmi,0.00702130785650512
+age,0.006808693481860013
+potential,0.006712069463395806
+wage_eur,0.006586073912118866
+body_type_Normal (185+),0.0036703250221536317
+club_contract_valid_until,0.003494737115982466
+work_rate_High/Medium,0.003407297699092055
+weak_foot,0.003024816312467068
+work_rate_Medium/Medium,0.002862076642960696
+work_rate_Medium/High,0.0028616380047203687
+goalkeeping_speed,0.002353000798331575
+body_type_Lean (170-185),0.0023269727881407905
+body_type_Normal (170-185),0.002144212931272937
+work_rate_att,0.001978674449499556
+league_level,0.0019438409708544555
+work_rate_Medium/Low,0.0011275616252466414
+work_rate_High/High,0.001008580737089542
+work_rate_High/Low,0.0009472852868447583
+body_type_Lean (185+),0.0009368394145780696
+nationality_name_England,0.0008263942767113608
+international_reputation,0.000767493565269097
+body_type_Normal (170-),0.0006327791347037738
+work_rate_Low/Medium,0.0006143128937096117
+nationality_name_Germany,0.0005752155096585161
+work_rate_Low/High,0.000563270226837706
+nationality_name_Spain,0.0005593986190886618
+nationality_name_Brazil,0.0005008161554167785
+nationality_name_France,0.0004804865741361427
+body_type_Lean (170-),0.00047932266519215615
+league_name_English League Championship,0.00046609781913328573
+league_name_Japanese J. League Division 1,0.0004349117840586175
+league_name_USA Major League Soccer,0.000425879842898597
+nationality_name_Argentina,0.00042047568884286715
+league_name_English League Two,0.00040650666990717287
+nationality_name_Japan,0.000396501901737208
+league_name_Campeonato Brasileiro Série A,0.0003713780430404193
+league_name_Spain Primera Division,0.0003283392713944011
+body_type_Stocky (170-185),0.0003250412928792919
+league_name_German 3. Bundesliga,0.00032288028264067914
+league_name_Argentina Primera División,0.0003218897347689955
+league_name_Polish T-Mobile Ekstraklasa,0.00032142937656818026
+league_name_Spanish Segunda División,0.0003178164020097765
+league_name_Chinese Super League,0.0003125289919432181
+league_name_Holland Eredivisie,0.0003063362797506593
+league_name_English Premier League,0.0003027789564118858
+league_name_Italian Serie A,0.0003027604311065931
+league_name_English League One,0.00028381830600704476
+league_name_French Ligue 2,0.000273355734062376
+league_name_Mexican Liga MX,0.00027055039159051825
+league_name_Turkish Süper Lig,0.0002705501733731332
+league_name_Portuguese Liga ZON SAGRES,0.0002631251525289081
+nationality_name_China PR,0.00026151957443094074
+league_name_German 1. Bundesliga,0.0002605047906080961
+league_name_Swedish Allsvenskan,0.00025923216050299525
+nationality_name_Netherlands,0.00025599960007562756
+league_name_French Ligue 1,0.0002540687857424055
+league_name_Saudi Abdul L. Jameel League,0.0002516724090341733
+league_name_Romanian Liga I,0.0002502333654920145
+nationality_name_Sweden,0.00024609317972305725
+nationality_name_Poland,0.0002418562548181296
+league_name_German 2. Bundesliga,0.00023654688853989693
+nationality_name_India,0.0002271902016834671
+league_name_Belgian Jupiler Pro League,0.00022356209395890162
+league_name_Norwegian Eliteserien,0.00022311700366000361
+league_name_Indian Super League,0.0002171435973042472
+nationality_name_Republic of Ireland,0.00021168948316811106
+nationality_name_Saudi Arabia,0.00020887494273689536
+body_type_Stocky (185+),0.00020759996847739538
+nationality_name_Portugal,0.00020540536118704834
+nationality_name_Norway,0.00020386985093765839
+nationality_name_Korea Republic,0.0001983042754925515
+league_name_Korean K League 1,0.00019640721290860286
+nationality_name_Italy,0.00019194324403812207
+nationality_name_Mexico,0.00019061641150079175
+nationality_name_Romania,0.00018770765834857163
+nationality_name_United States,0.00018220136456274897
+nationality_name_Colombia,0.00016499183181656042
+nationality_name_Denmark,0.00016410207622575838
+league_name_Danish Superliga,0.00016371770681706385
+league_name_Austrian Football Bundesliga,0.00016152868163234231
+nationality_name_Belgium,0.00015548182690924495
+nationality_name_Austria,0.00015512320952236299
+league_name_Australian Hyundai A-League,0.00015355785578262656
+league_name_Scottish Premiership,0.0001509976321479531
+nationality_name_Scotland,0.0001509135689021777
+nationality_name_Australia,0.0001457854034692792
+league_name_Rep. Ireland Airtricity League,0.00013746757313299837
+league_name_Swiss Super League,0.0001355364390823483
+nationality_name_Turkey,0.00012514115200094254
+nationality_name_Uruguay,0.000113402209669528
+league_name_Ecuadorian Serie A,9.408881254169382e-05
+league_name_Colombian Liga Postobón,8.930582159687753e-05
+nationality_name_Peru,8.451849466120905e-05
+body_type_Unique,8.409317505510035e-05
+nationality_name_Venezuela,8.308819622255912e-05
+league_name_Liga de Fútbol Profesional Boliviano,8.023179339013389e-05
+nationality_name_Ecuador,7.786418179385937e-05
+nationality_name_Switzerland,7.63518098143541e-05
+nationality_name_Wales,7.624241840086858e-05
+nationality_name_Paraguay,7.53313481033108e-05
+nationality_name_Bolivia,7.319405743094671e-05
+nationality_name_Nigeria,6.944155441599274e-05
+league_name_Peruvian Primera División,6.906720926327337e-05
+league_name_Paraguayan Primera División,6.756149617232055e-05
+league_name_Chilian Campeonato Nacional,6.719525319632808e-05
+league_name_Uruguayan Primera División,6.173200028812793e-05
+nationality_name_Chile,5.959296394878843e-05
+nationality_name_Ghana,5.953402698943922e-05
+league_name_Venezuelan Primera División,5.670856544029422e-05
+league_name_Greek Super League,5.217113716801465e-05
+body_type_Stocky (170-),5.154000949695168e-05
+nationality_name_Croatia,5.0754139646068955e-05
+nationality_name_Czech Republic,4.783172448051127e-05
+nationality_name_Serbia,4.6551267772453606e-05
+work_rate_Low/Low,4.4432180052340385e-05
+league_name_Italian Serie B,4.441881988390388e-05
+nationality_name_Senegal,4.060004491874455e-05
+nationality_name_Russia,3.698306607527018e-05
+club_name_nan,3.598862922641811e-05
+nationality_name_Côte d'Ivoire,3.425350859446477e-05
+nationality_name_Morocco,3.340747179585287e-05
+nationality_name_Canada,3.2893077342569095e-05
+club_name_Odisha FC,2.9530967429080903e-05
+league_name_nan,2.8700565923512208e-05
+league_name_Russian Premier League,2.6237034041918234e-05
+nationality_name_Northern Ireland,2.5970509978768217e-05
+nationality_name_Cameroon,2.5783080637694374e-05
+league_name_Czech Republic Gambrinus Liga,2.4460217528663847e-05
+club_name_Barnsley,2.400669595725879e-05
+club_name_Oita Trinita,2.3746363670672843e-05
+league_name_South African Premier Division,2.3611790380705347e-05
+nationality_name_Finland,2.2410642056193447e-05
+club_name_Kalmar FF,2.1181084572548745e-05
+nationality_name_Mali,2.0436118470606035e-05
+league_name_Ukrainian Premier League,2.0416326904932664e-05
+nationality_name_Congo DR,2.0358503550982657e-05
+nationality_name_South Africa,2.0305363051792737e-05
+nationality_name_Ukraine,2.0007342187833522e-05
+club_name_Peterborough United,1.9990298361200943e-05
+club_name_ATK Mohun Bagan FC,1.901942858991062e-05
+club_name_Chennaiyin FC,1.8764583757890746e-05
+nationality_name_Bosnia and Herzegovina,1.8476739233832087e-05
+nationality_name_New Zealand,1.8360099742406077e-05
+nationality_name_Hungary,1.8094496564187115e-05
+club_name_Drogheda United,1.7776376846851786e-05
+nationality_name_Iceland,1.693400719801272e-05
+club_name_Unión de Santa Fe,1.659104139728325e-05
+club_name_Al Fateh,1.652064770822341e-05
+club_name_Willem II,1.6498848608374228e-05
+club_name_Philadelphia Union,1.621988615591809e-05
+league_name_Croatian Prva HNL,1.5943225944930303e-05
+club_name_Tokushima Vortis,1.585992588634538e-05
+club_name_Mjällby AIF,1.560662338449412e-05
+nationality_name_Greece,1.5354017111566025e-05
+club_name_PEC Zwolle,1.5247634840176447e-05
+club_name_Portland Timbers,1.5169769935162446e-05
+club_name_Accrington Stanley,1.5050936470482582e-05
+club_name_Colchester United,1.4820951575505632e-05
+club_name_Shonan Bellmare,1.4742437735028159e-05
+club_name_Coventry City,1.4278430899334127e-05
+club_name_AS Nancy Lorraine,1.4195599380128213e-05
+nationality_name_Algeria,1.4080278520472121e-05
+club_name_Wolverhampton Wanderers,1.4070967987822965e-05
+club_name_FC Nordsjælland,1.3784441872793801e-05
+club_name_Derry City,1.3670680643829328e-05
+club_name_Stoke City,1.3233391567922228e-05
+club_name_Fatih Karagümrük S.K.,1.3138302973248905e-05
+club_name_Bruk-Bet Termalica Nieciecza,1.2860616236448674e-05
+club_name_Clube Sport Marítimo,1.2860402972676656e-05
+club_name_Tianjin Jinmen Tiger FC,1.2717828486239553e-05
+club_name_Yukatel Kayserispor,1.2680224194432317e-05
+club_name_IK Sirius,1.2555477824873587e-05
+club_name_CS Mioveni,1.249079252041391e-05
+club_name_APOEL Nicosia FC,1.2450751676695493e-05
+club_name_Sheffield United,1.2435827507531138e-05
+club_name_Jagiellonia Białystok,1.2326694427046548e-05
+club_name_Club Deportivo Guabirá,1.2190940853218109e-05
+club_name_Śląsk Wrocław,1.2169127768398285e-05
+club_name_Sligo Rovers,1.2067726775885853e-05
+club_name_VfL Wolfsburg,1.2050458638742764e-05
+club_name_Burton Albion,1.2007236370654046e-05
+club_name_Guayaquil City FC,1.2006198094533193e-05
+club_name_Tranmere Rovers,1.200537014037984e-05
+club_name_Real Madrid CF,1.1977204570426842e-05
+club_name_Liverpool,1.1948627813208314e-05
+club_name_Queens Park Rangers,1.1947337965094123e-05
+club_name_Club Atlético Palmaflor,1.1922546362504357e-05
+club_name_Venezia FC,1.175771276367604e-05
+club_name_Atalanta,1.1736481665035725e-05
+club_name_Sport Huancayo,1.1517928306930693e-05
+club_name_Hellas Verona,1.150638587802391e-05
+club_name_Exeter City,1.1500884437442901e-05
+club_name_Moreirense FC,1.1451571672801797e-05
+club_name_CD Huachipato,1.1443651709481847e-05
+club_name_Sporting CP,1.1370429936605895e-05
+club_name_Real Betis Balompié,1.1305299997459511e-05
+club_name_FC Lokomotiv Moscow,1.119724533052167e-05
+nationality_name_Slovakia,1.1170464008824034e-05
+club_name_Levante Unión Deportiva,1.114707007959982e-05
+club_name_FC Botoşani,1.1090037630230851e-05
+club_name_SV Meppen,1.1084604681953214e-05
+club_name_Manchester City,1.102520357244647e-05
+club_name_Shimizu S-Pulse,1.0963006315213826e-05
+club_name_Brisbane Roar,1.0960040413689376e-05
+club_name_Manchester United,1.0903647240859403e-05
+club_name_Barrow,1.0862444129426006e-05
+club_name_Seraing,1.0861403726724423e-05
+club_name_Bradford City,1.0845450727089275e-05
+club_name_Estoril Praia,1.0794603017396654e-05
+club_name_Kerala Blasters FC,1.0720866319959172e-05
+club_name_Sevilla FC,1.070208192071009e-05
+club_name_Suwon Samsung Bluewings,1.0699622007375834e-05
+club_name_Vissel Kobe,1.0679070639015762e-05
+club_name_SC East Bengal FC,1.0671109841797565e-05
+club_name_Türkgücü München,1.0464024450012109e-05
+club_name_FC Flyeralarm Admira,1.0451503475094295e-05
+club_name_Doncaster Rovers,1.0441653229416299e-05
+club_name_1. FSV Mainz 05,1.0434456692806712e-05
+club_name_Rangers FC,1.040253834434623e-05
+club_name_Sportclub Verl,1.0359209874201067e-05
+club_name_Shanghai Port FC,1.0344725165716885e-05
+club_name_Villarreal CF,1.0266735704075323e-05
+club_name_Deportivo La Guaira FC,1.023074524520302e-05
+club_name_Holstein Kiel,1.0216563844497612e-05
+club_name_Orlando City Soccer Club,1.0178675540776704e-05
+club_name_Portimonense SC,1.0154176130774875e-05
+club_name_Henan Songshan Longmen FC,1.0151020575902806e-05
+club_name_Deportivo Toluca,1.0124179150407998e-05
+club_name_Ajax,1.0121435114877719e-05
+club_name_Montevideo City Torque,1.0099649745517246e-05
+club_name_Gamba Osaka,1.0047946053774298e-05
+club_name_Al Raed,1.0030300778966121e-05
+club_name_Standard de Liège,1.0003260968761518e-05
+club_name_Club de Foot Montréal,9.916520422779081e-06
+club_name_Tottenham Hotspur,9.891629295082172e-06
+club_name_Club Always Ready,9.879407536684603e-06
+club_name_VfB Stuttgart,9.866370188558366e-06
+club_name_Brøndby IF,9.85050218546659e-06
+club_name_Incheon United FC,9.838716226164285e-06
+club_name_Cerezo Osaka,9.779583764539049e-06
+club_name_River Plate,9.77823798257335e-06
+club_name_SL Benfica,9.764079552003934e-06
+club_name_Oldham Athletic,9.740463124721724e-06
+club_name_Bologna,9.713119247513882e-06
+club_name_Bristol Rovers,9.702150714956336e-06
+club_name_West Bromwich Albion,9.691806802699403e-06
+club_name_FC Midtjylland,9.680499758243978e-06
+club_name_Belenenses SAD,9.652959881724805e-06
+club_name_FC Goa,9.618958786179108e-06
+club_name_Waterford FC,9.616465190079361e-06
+nationality_name_Slovenia,9.609531423796404e-06
+club_name_Al Faisaly,9.599498961149256e-06
+club_name_Chicago Fire Football Club,9.59602906994631e-06
+club_name_Al Fayha,9.592791550952805e-06
+club_name_TSV Havelse,9.564267585956499e-06
+club_name_Yokohama FC,9.516193110439952e-06
+club_name_Tromsø IL,9.512259119706369e-06
+club_name_FC Metz,9.479047024609315e-06
+nationality_name_Albania,9.459227652139456e-06
+club_name_Hokkaido Consadole Sapporo,9.446827227549741e-06
+club_name_FC Paços de Ferreira,9.422065951409589e-06
+club_name_Cardiff City,9.402348820776865e-06
+club_name_1. FC Union Berlin,9.38370726533502e-06
+club_name_Feyenoord,9.361086307682047e-06
+club_name_Preston North End,9.33048841683562e-06
+club_name_Dalian Professional Football Club,9.314826332273028e-06
+club_name_Shakhtar Donetsk,9.243096139855914e-06
+club_name_Real Oviedo,9.209778292462024e-06
+club_name_FC Vizela,9.192437010192239e-06
+club_name_Universitatea Craiova,9.14968000766061e-06
+club_name_Aragua Fútbol Club,9.136754602633177e-06
+club_name_TSV 1860 München,9.104856446676161e-06
+club_name_Chelsea,9.05966438020459e-06
+club_name_AC Mineros de Guayana,9.047316527781587e-06
+club_name_FCSB (Steaua),9.00030108291272e-06
+club_name_Odds BK,8.975552404979857e-06
+club_name_Olympique Lyonnais,8.928334181916592e-06
+club_name_SK Slavia Praha,8.899772242195635e-06
+club_name_Al Hazem,8.877971088343864e-06
+club_name_Degerfors IF,8.853296169828864e-06
+club_name_RCD Espanyol de Barcelona,8.808023615314315e-06
+club_name_Hebei FC,8.766434303649823e-06
+club_name_TSV Egger Glas Hartberg,8.75750178876049e-06
+club_name_Shijiazhuang Ever Bright F.C.,8.756249257157124e-06
+club_name_Huddersfield Town,8.744818303455622e-06
+club_name_Arsenal,8.740217674583857e-06
+club_name_Spezia,8.737114953435635e-06
+club_name_Bengaluru FC,8.720208160979415e-06
+club_name_Newcastle United,8.718232973968317e-06
+club_name_Roma,8.709108139632502e-06
+club_name_Eintracht Frankfurt,8.68195383975772e-06
+club_name_Qingdao FC,8.673203747066963e-06
+club_name_Seongnam FC,8.672189174139902e-06
+club_name_Jamshedpur FC,8.64582379229814e-06
+club_name_Racing Club,8.637738656586867e-06
+club_name_FC Twente,8.630101560031064e-06
+club_name_CD Antofagasta,8.59188670536011e-06
+club_name_Santos,8.588549401894717e-06
+club_name_Olympique de Marseille,8.58583104616784e-06
+club_name_West Ham United,8.557829080400158e-06
+club_name_Borussia Dortmund II,8.55746881734954e-06
+league_name_English National League,8.551130411712745e-06
+nationality_name_Gambia,8.545243084566402e-06
+club_name_Brighton & Hove Albion,8.534653174413038e-06
+club_name_1. FC Saarbrücken,8.457621706372087e-06
+club_name_Östersunds FK,8.435218037327427e-06
+club_name_Girona FC,8.432177770221678e-06
+club_name_Finn Harps,8.431643884863699e-06
+club_name_RB Leipzig,8.417672011452918e-06
+club_name_FK Bodø/Glimt,8.390602870367087e-06
+club_name_Colorado Rapids,8.390598762426308e-06
+club_name_Kaizer Chiefs,8.356369029294206e-06
+club_name_US Quevilly Rouen Métropole,8.32643914973427e-06
+club_name_Mjøndalen IF,8.293710129510166e-06
+club_name_Club de Deportes Cobresal,8.285632326882123e-06
+club_name_Guangzhou City,8.251608927175967e-06
+club_name_Racing Club de Lens,8.213140143847566e-06
+club_name_Atlético Tucumán,8.205106868924736e-06
+club_name_Vancouver Whitecaps FC,8.1918423435713e-06
+club_name_U.C. Sampdoria,8.178282051401783e-06
+club_name_AC Milan,8.1688898606789e-06
+club_name_Heracles Almelo,8.159989137135511e-06
+club_name_Paris FC,8.122903357032156e-06
+club_name_Longford Town,8.0882129280999e-06
+club_name_Angers SCO,8.087964179686833e-06
+club_name_SK Sturm Graz,8.087274315021233e-06
+league_name_Finnish Veikkausliiga,8.086281706251915e-06
+club_name_SC Freiburg II,8.082559744401401e-06
+club_name_Toronto FC,8.074742061281372e-06
+club_name_Newport County,8.073786355817849e-06
+club_name_Panathinaikos FC,8.058136668040303e-06
+league_name_UAE Arabian Gulf League,8.047858226879123e-06
+club_name_Urawa Red Diamonds,8.035974635197103e-06
+club_name_Al Batin,8.012665460002873e-06
+club_name_FK Austria Wien,8.00929254950477e-06
+club_name_Pohang Steelers,8.001390750696369e-06
+club_name_Damac FC,7.990323514774104e-06
+club_name_Middlesbrough,7.986791087613212e-06
+club_name_Real Sociedad B,7.946088781088184e-06
+club_name_Kashima Antlers,7.928749210378722e-06
+nationality_name_Jamaica,7.891592668090887e-06
+club_name_Club Libertad,7.886681603668177e-06
+club_name_Silkeborg IF,7.87153685090194e-06
+club_name_Genoa,7.839339249669923e-06
+club_name_Hyderabad FC,7.830189728160967e-06
+club_name_Sanfrecce Hiroshima,7.791365352193625e-06
+club_name_Plymouth Argyle,7.778006137973394e-06
+club_name_Carlisle United,7.776171257691203e-06
+club_name_Club León,7.755878981094762e-06
+club_name_Milton Keynes Dons,7.743018651995327e-06
+club_name_Stade Malherbe Caen,7.739466355730625e-06
+club_name_Club Atlético de San Luis,7.729014557814691e-06
+club_name_SC Cambuur,7.716712647286464e-06
+club_name_SV Waldhof Mannheim 07,7.714885300259053e-06
+club_name_AFC UTA Arad,7.710470475205919e-06
+club_name_Seattle Sounders FC,7.69953933396703e-06
+club_name_Randers FC,7.665572941460148e-06
+club_name_FC Dinamo 1948 Bucureşti,7.652043020049561e-06
+club_name_Lazio,7.647179903038223e-06
+club_name_Real Sporting de Gijón,7.604004843590241e-06
+club_name_Livingston FC,7.574475343559938e-06
+club_name_Sagan Tosu,7.558611551798317e-06
+club_name_KV Kortrijk,7.55830931418957e-06
+club_name_Nagoya Grampus,7.55310011595858e-06
+club_name_Sepsi OSK Sf. Gheorghe,7.5175759521340724e-06
+club_name_Fortuna Düsseldorf,7.51398032340472e-06
+club_name_FC Würzburger Kickers,7.510162383248616e-06
+club_name_Hammarby IF,7.475888705390847e-06
+club_name_Torino F.C.,7.470023530447491e-06
+club_name_Antalyaspor,7.4486098048618074e-06
+club_name_Grenoble Foot 38,7.4441526525203726e-06
+club_name_Udinese Calcio,7.442172872188193e-06
+club_name_Trabzonspor,7.442009059718542e-06
+club_name_Shandong Taishan,7.440793613201062e-06
+club_name_Deportivo Táchira FC,7.426625907550793e-06
+club_name_Fluminense,7.399186126197774e-06
+club_name_Borussia Dortmund,7.386769585489604e-06
+club_name_Swindon Town,7.379156197044429e-06
+club_name_AFC Chindia Târgoviște,7.3626000383794055e-06
+club_name_FC Girondins de Bordeaux,7.336360464571342e-06
+club_name_FC Cincinnati,7.3201651522586886e-06
+club_name_FC Lausanne-Sport,7.29256076284729e-06
+club_name_PAOK,7.286292547408735e-06
+club_name_NorthEast United FC,7.281387907862298e-06
+club_name_Wrexham AFC,7.25970909150798e-06
+club_name_FC Viktoria 1889 Berlin,7.23658951069877e-06
+club_name_Luton Town,7.203912205570275e-06
+club_name_Mazatlán Futbol Club,7.203120331339051e-06
+club_name_SV Werder Bremen,7.183012942730061e-06
+club_name_Hannover 96,7.170210596722132e-06
+club_name_FC Erzgebirge Aue,7.132720364481892e-06
+club_name_Çaykur Rizespor,7.114562863900095e-06
+club_name_Nottingham Forest,7.112582090768512e-06
+club_name_Hajduk Split,7.112085161144034e-06
+club_name_Vejle Boldklub,7.090428323129432e-06
+club_name_Newell's Old Boys,7.072923085331268e-06
+club_name_CFR Cluj,7.0268529631866015e-06
+club_name_Forest Green Rovers,7.023703604141892e-06
+club_name_En Avant de Guingamp,7.002688839959984e-06
+club_name_Eintracht Braunschweig,6.992474216157015e-06
+club_name_Charlton Athletic,6.990636860783686e-06
+club_name_FC Dallas,6.955079304613037e-06
+club_name_Watford,6.945537622764501e-06
+club_name_Port Vale,6.940660525728488e-06
+club_name_VfL Bochum 1848,6.933529606285599e-06
+club_name_Sporting Kansas City,6.9113784552809345e-06
+club_name_Santos Laguna,6.907869120288342e-06
+club_name_Club América,6.86964259491266e-06
+club_name_1. FC Magdeburg,6.859149082405675e-06
+club_name_SC Braga,6.80980555027984e-06
+club_name_Sociedad Deportiva Aucas,6.8086791567192495e-06
+club_name_FC Zürich,6.80617280888094e-06
+club_name_Bolton Wanderers,6.8047189211715205e-06
+club_name_Górnik Zabrze,6.767428783936649e-06
+club_name_Salford City,6.760182840677128e-06
+nationality_name_North Macedonia,6.759606720003896e-06
+club_name_AC Monza,6.755568257179918e-06
+club_name_Al Taawoun,6.746353982825464e-06
+club_name_Leeds United,6.740705135108676e-06
+club_name_Granada CF,6.738368062517814e-06
+club_name_Derby County,6.721551426041688e-06
+league_name_Hungarian Nemzeti Bajnokság I,6.705089072343941e-06
+club_name_Altay SK,6.689722107069954e-06
+club_name_N.E.C. Nijmegen,6.680722319462023e-06
+nationality_name_Kosovo,6.668655825406392e-06
+club_name_Vitória de Guimarães,6.654402582875583e-06
+club_name_Shamrock Rovers,6.652152897544079e-06
+nationality_name_Tunisia,6.620699859140968e-06
+club_name_Burnley,6.618223409922516e-06
+club_name_Fortuna Sittard,6.603979179613777e-06
+club_name_Toulouse Football Club,6.59185942139027e-06
+club_name_Legia Warszawa,6.5671718310128965e-06
+club_name_Leicester City,6.551956274469394e-06
+club_name_Avispa Fukuoka,6.5519208394155635e-06
+club_name_FC St. Gallen 1879,6.527027197486307e-06
+club_name_SpVgg Greuther Fürth,6.5259970559741e-06
+nationality_name_Georgia,6.511326680647806e-06
+club_name_CF Fuenlabrada,6.4884542916148164e-06
+club_name_CD Tenerife,6.484530251333438e-06
+club_name_FC Seoul,6.4765348547478405e-06
+club_name_Pachuca,6.472245440728488e-06
+club_name_FC Basel 1893,6.457571727937441e-06
+club_name_Swansea City,6.451883872195309e-06
+club_name_Górnik Łęczna,6.449695472105575e-06
+club_name_Macarthur FC,6.4403164887534405e-06
+club_name_Clube Atlético Mineiro,6.4368745004311325e-06
+nationality_name_Guinea,6.413121497378436e-06
+club_name_Lecce,6.407213049234573e-06
+club_name_Al Nassr,6.393847040831979e-06
+club_name_1. FC Heidenheim 1846,6.383344008020983e-06
+club_name_Shenzhen FC,6.366925905362902e-06
+club_name_FC Barcelona,6.340335222603524e-06
+club_name_Varbergs BoIS FC,6.321161896276415e-06
+club_name_Elche CF,6.3135341011379695e-06
+club_name_1. FC Kaiserslautern,6.3119932124988645e-06
+club_name_Club Atlético Huracán,6.30794585224286e-06
+club_name_Crewe Alexandra,6.288682096375063e-06
+club_name_KAS Eupen,6.280414654740604e-06
+club_name_Guangzhou FC,6.278875799814455e-06
+club_name_SG Dynamo Dresden,6.269819829321863e-06
+club_name_Defensa y Justicia,6.241703857963437e-06
+club_name_Sandefjord Fotball,6.227923918351794e-06
+club_name_Deportivo Alavés,6.187607531212283e-06
+club_name_FC Bayern München,6.170352316215256e-06
+club_name_FC Voluntari,6.159252588616347e-06
+club_name_Birmingham City,6.155042200517989e-06
+club_name_Rapid București,6.14077664885096e-06
+club_name_Lechia Gdańsk,6.122924245487988e-06
+club_name_LDU Quito,6.115362866576903e-06
+club_name_Houston Dynamo,6.11108620502056e-06
+club_name_US Salernitana 1919,6.025241062452652e-06
+club_name_Al Ittihad,6.002346023359305e-06
+club_name_Cracovia,5.997745429353917e-06
+club_name_Atlético de Madrid,5.985228150245416e-06
+club_name_Changchun Yatai FC,5.984438653666197e-06
+club_name_Western Sydney Wanderers,5.9797787184360034e-06
+club_name_Club Atlas,5.970760731000617e-06
+club_name_Sport Club Corinthians Paulista,5.950948630622838e-06
+club_name_Bristol City,5.947846604966432e-06
+club_name_Ferencvárosi TC,5.942857086453616e-06
+club_name_RKC Waalwijk,5.914583223655383e-06
+club_name_Austin FC,5.892829231847079e-06
+club_name_Estudiantes de La Plata,5.886471851178201e-06
+club_name_FC Ingolstadt 04,5.885750563331429e-06
+club_name_Stade Brestois 29,5.884679532029744e-06
+club_name_Atlanta United,5.884268848659802e-06
+club_name_Brentford,5.8736237913132815e-06
+club_name_CD Leganés,5.840731519225302e-06
+club_name_Al Tai,5.8268771681477745e-06
+club_name_Real Zaragoza,5.825082524147417e-06
+club_name_Crystal Palace,5.8244530562265956e-06
+club_name_FC Cartagena,5.810378638472215e-06
+club_name_Gaz Metan Mediaş,5.807058379358666e-06
+club_name_Club Sporting Cristal,5.80514679858247e-06
+club_name_Lillestrøm SK,5.794955392407587e-06
+club_name_Unión Deportiva Almería,5.7830908190344814e-06
+club_name_Fenerbahçe SK,5.781463889209145e-06
+club_name_Deportivo Cali,5.778580054747632e-06
+club_name_Suwon FC,5.7773178319688606e-06
+club_name_Walsall,5.770657521716089e-06
+club_name_Platense,5.7521329250996e-06
+club_name_TSG Hoffenheim,5.7469258592926565e-06
+club_name_Fulham,5.729933158472077e-06
+club_name_CA Osasuna,5.697484747630271e-06
+club_name_FC Academica Clinceni,5.692064719737627e-06
+club_name_Pogoń Szczecin,5.691102987347655e-06
+club_name_Go Ahead Eagles,5.6863263833015155e-06
+club_name_ESTAC Troyes,5.685826178237843e-06
+club_name_Borussia Mönchengladbach,5.6775702928087995e-06
+club_name_Aston Villa,5.6752030621891575e-06
+club_name_Dundee FC,5.655737715134541e-06
+club_name_Athletic Club de Bilbao,5.653774577636247e-06
+club_name_SC Paderborn 07,5.651041676444037e-06
+club_name_Raków Częstochowa,5.639187548866264e-06
+club_name_FC Lorient,5.610138846122584e-06
+club_name_Sunderland,5.600183365933232e-06
+club_name_RC Strasbourg Alsace,5.5993605644730685e-06
+club_name_Inter,5.598086994462552e-06
+club_name_Bohemian FC,5.582963077897814e-06
+club_name_Cádiz CF,5.556404357680656e-06
+club_name_Orlando Pirates,5.555903691184128e-06
+club_name_D.C. United,5.553466207453227e-06
+club_name_Shanghai Shenhua FC,5.552489465982076e-06
+club_name_Club Atlético Sarmiento,5.544669845784576e-06
+club_name_Club Nacional,5.539309131642443e-06
+club_name_Mansfield Town,5.510824314280075e-06
+club_name_Minnesota United FC,5.497192994578504e-06
+club_name_Gimnasia y Esgrima La Plata,5.482417639760871e-06
+club_name_Crawley Town,5.473824500603332e-06
+club_name_Internacional,5.463593376893612e-06
+club_name_Jeju United FC,5.451678869163531e-06
+club_name_Napoli,5.446590927405254e-06
+club_name_Club Deportivo Guadalajara,5.44114006664236e-06
+club_name_Ipswich Town,5.433294343363853e-06
+club_name_Paris Saint-Germain,5.427800585416605e-06
+club_name_VfL Osnabrück,5.426350906208607e-06
+club_name_Viking FK,5.374591858154124e-06
+club_name_Halmstads BK,5.373959501545686e-06
+club_name_Empoli,5.370813235675989e-06
+club_name_İstanbul Başakşehir FK,5.3689519237700435e-06
+club_name_Grêmio,5.364389472377516e-06
+club_name_Melbourne Victory,5.359560505886885e-06
+club_name_Amiens SC,5.34173308395481e-06
+club_name_Godoy Cruz,5.333235459842089e-06
+club_name_SønderjyskE,5.314548718486476e-06
+club_name_HJK Helsinki,5.311278718396281e-06
+club_name_Beijing Guoan FC,5.3058072231814486e-06
+club_name_Chongqing Liangjiang Athletic,5.302570061872325e-06
+club_name_Karlsruher SC,5.287614370057615e-06
+club_name_K Beerschot VA,5.285194751836252e-06
+club_name_Sint-Truidense VV,5.269601663401044e-06
+club_name_Motherwell,5.267211171937479e-06
+club_name_Mumbai City FC,5.243898168565779e-06
+club_name_Academia Puerto Cabello,5.241846291759696e-06
+club_name_CD Lugo,5.239345702127989e-06
+club_name_Flamengo,5.233701338078461e-06
+club_name_FC Arouca,5.23343235055217e-06
+club_name_Real Valladolid CF,5.218629187063742e-06
+club_name_Universidad Católica,5.199097455178502e-06
+club_name_Club Atlético Rentistas,5.193679537730382e-06
+club_name_SD Amorebieta,5.182663035283757e-06
+club_name_CS Emelec,5.171257316010756e-06
+club_name_Pau FC,5.161472514595036e-06
+club_name_Wuhan FC,5.15057461059111e-06
+nationality_name_Cape Verde Islands,5.145964893524297e-06
+club_name_Molde FK,5.145360146947532e-06
+club_name_Ceará Sporting Club,5.133071954453463e-06
+club_name_Hertha BSC,5.128280908866436e-06
+club_name_Arsenal de Sarandí,5.112335407506246e-06
+club_name_1. FC Köln,5.099982667152238e-06
+club_name_Los Angeles FC,5.097175158350982e-06
+club_name_LA Galaxy,5.076278088620376e-06
+club_name_Tigres U.A.N.L.,5.0730880859395955e-06
+club_name_Al Ain FC,5.071564412187881e-06
+club_name_Radomiak Radom,5.070389017414374e-06
+club_name_Columbus Crew,5.058672631186031e-06
+club_name_RCD Mallorca,5.0427617831803555e-06
+club_name_Piast Gliwice,5.0369469335133976e-06
+club_name_Guaireña FC,5.019914810259297e-06
+club_name_Stevenage,5.018663654484201e-06
+club_name_Valencia CF,5.0181173069175495e-06
+club_name_Al Shabab,5.016538964233661e-06
+club_name_Spartak Moskva,5.014925505416648e-06
+club_name_Hibernian,4.981418819162895e-06
+club_name_Vélez Sarsfield,4.967609828282002e-06
+club_name_FC Tokyo,4.963573963643866e-06
+club_name_Newcastle Jets,4.952451325234641e-06
+club_name_RB Bragantino,4.951911111627945e-06
+club_name_FC Farul Constanța,4.934292197206683e-06
+club_name_Associação Chapecoense de Futebol,4.928800032699183e-06
+club_name_Royal Antwerp FC,4.928113973460203e-06
+club_name_FC Sion,4.921468608357847e-06
+club_name_Fleetwood Town,4.9159691058544225e-06
+club_name_Gil Vicente FC,4.9064439227380995e-06
+club_name_Club Independiente Santa Fe,4.896359837479631e-06
+club_name_SC Heerenveen,4.89492425967471e-06
+club_name_Dundalk FC,4.878561966925997e-06
+club_name_Vegalta Sendai,4.858992112259051e-06
+club_name_SC Rheindorf Altach,4.814139124968634e-06
+club_name_Club Bolívar,4.804840119611276e-06
+club_name_Club Atlético Talleres,4.803640613711762e-06
+club_name_GwangJu FC,4.801714611860587e-06
+club_name_Burgos CF,4.799307197987636e-06
+club_name_Royal Charleroi S.C.,4.794383467528146e-06
+club_name_Blackpool,4.789908995842062e-06
+club_name_SV Wehen Wiesbaden,4.789417220174021e-06
+club_name_RC Celta de Vigo,4.778486753954108e-06
+club_name_Juventus,4.7543456984697136e-06
+club_name_Junior FC,4.741412200722195e-06
+club_name_Kawasaki Frontale,4.729483289305832e-06
+club_name_FC Groningen,4.711537234757614e-06
+club_name_Club Atlético Peñarol,4.703402289640549e-06
+club_name_Scunthorpe United,4.6989934236635146e-06
+club_name_FSV Zwickau,4.698906237847548e-06
+club_name_Rotherham United,4.681682674998978e-06
+club_name_FC Augsburg,4.679281196277708e-06
+club_name_UD Ibiza,4.678101600453293e-06
+club_name_Club Deportivo Jorge Wilstermann,4.669861456550804e-06
+club_name_AFC Bournemouth,4.649150124016044e-06
+club_name_SSV Jahn Regensburg,4.644966245474696e-06
+nationality_name_Burkina Faso,4.624995838984304e-06
+club_name_Fortaleza,4.610463815558628e-06
+club_name_Nîmes Olympique,4.5872260340176734e-06
+club_name_Gangwon FC,4.576435805843938e-06
+club_name_Aalborg BK,4.575855351164929e-06
+club_name_AC Ajaccio,4.552724282069265e-06
+club_name_Portsmouth,4.528710457626477e-06
+club_name_Sheffield Wednesday,4.520800043334284e-06
+club_name_Futebol Clube de Famalicão,4.519250009958837e-06
+club_name_Rodez Aveyron Football,4.513757140765706e-06
+club_name_Shrewsbury Town,4.512247651662806e-06
+club_name_Rayo Vallecano,4.510071364025307e-06
+club_name_KV Mechelen,4.502619289825324e-06
+club_name_Club Olimpia,4.4900322963538815e-06
+club_name_Örebro SK,4.468250179707912e-06
+nationality_name_Cyprus,4.4527202270861885e-06
+club_name_Wisła Płock,4.437965727278257e-06
+club_name_GZT Giresunspor,4.437289081692054e-06
+club_name_Boavista FC,4.436773336483204e-06
+club_name_Hull City,4.431716083240088e-06
+club_name_Rosario Central,4.428440914528524e-06
+club_name_Ulsan Hyundai FC,4.425387054615077e-06
+club_name_Odense Boldklub,4.420350424398588e-06
+club_name_FBC Melgar,4.407795414642803e-06
+club_name_AIK,4.398887731678401e-06
+club_name_Viktoria Köln,4.390759502444173e-06
+club_name_Dynamo Kyiv,4.3904835463501905e-06
+club_name_FC Sochaux-Montbéliard,4.383269651071704e-06
+club_name_Benevento,4.365117810486291e-06
+club_name_Yokohama F. Marinos,4.351559580586374e-06
+club_name_BK Häcken,4.348583793345281e-06
+club_name_Cheltenham Town,4.3432242471582086e-06
+club_name_Celtic,4.3188767376059725e-06
+club_name_Zagłębie Lubin,4.313727453190363e-06
+club_name_Getafe CF,4.291070375451213e-06
+club_name_WSG Tirol,4.286924539570359e-06
+club_name_KAA Gent,4.277950597160658e-06
+nationality_name_Angola,4.262691576389867e-06
+club_name_Warta Poznań,4.2463867926882025e-06
+club_name_FC Utrecht,4.2459371792188815e-06
+club_name_FC Viktoria Plzeň,4.201589145632728e-06
+club_name_Club Brugge KV,4.187473872983991e-06
+club_name_Carlos A. Mannucci,4.178767961153037e-06
+club_name_Stabæk Fotball,4.151564445681518e-06
+league_name_Cypriot First Division,4.139352986968351e-06
+club_name_PSV,4.107998553575946e-06
+club_name_Malmö FF,4.107034026901591e-06
+club_name_Independiente del Valle,4.102568607573668e-06
+club_name_Hallescher FC,4.0763987748628e-06
+club_name_Club Atlético Independiente,4.050897146825421e-06
+club_name_KRC Genk,4.037766195076233e-06
+club_name_FC St. Pauli,4.037333530638388e-06
+club_name_Millwall,4.035689493000534e-06
+club_name_Campionii FC Arges,4.034368422382052e-06
+club_name_SC Bastia,4.032304109641681e-06
+club_name_Real Sociedad,4.0314080492426876e-06
+club_name_Ettifaq FC,4.021440284677406e-06
+club_name_Kasimpaşa SK,4.0179909532718705e-06
+club_name_St. Patrick's Athletic,4.0101161008941495e-06
+club_name_USL Dunkerque,3.998024897744051e-06
+club_name_Club River Plate Asunción,3.984266146473896e-06
+club_name_Club Athletico Paranaense,3.9757036497092934e-06
+club_name_Juventude,3.975312139638201e-06
+club_name_Beşiktaş JK,3.966461451232909e-06
+club_name_Dijon FCO,3.95573374609556e-06
+club_name_RZ Pellets Wolfsberger AC,3.935643873593166e-06
+club_name_San Jose Earthquakes,3.934372747939888e-06
+club_name_Atlético Clube Goianiense,3.930877387163569e-06
+club_name_Bahia,3.90260069188736e-06
+club_name_SD Eibar,3.900493923084787e-06
+club_name_SV Darmstadt 98,3.896253272283975e-06
+club_name_Norwich City,3.893040454089313e-06
+club_name_Clermont Foot 63,3.873525738094746e-06
+club_name_Universidad Técnica de Cajamarca,3.86122047158542e-06
+club_name_Club Atlético Banfield,3.847500733139663e-06
+club_name_FC Porto,3.837673241768198e-06
+club_name_SD Ponferradina,3.836691054086424e-06
+club_name_AZ Alkmaar,3.832102201612403e-06
+club_name_Club Nacional de Football,3.8247096394005304e-06
+club_name_CF Monterrey,3.8076473880688635e-06
+nationality_name_Togo,3.805789550682891e-06
+club_name_Palmeiras,3.796405433432663e-06
+club_name_Vålerenga Fotball,3.7879281935982097e-06
+club_name_New England Revolution,3.779829848436065e-06
+club_name_Fútbol Club Juárez,3.7612043924336317e-06
+club_name_RSC Anderlecht,3.7571941488881684e-06
+club_name_Santa Clara,3.7479571938074778e-06
+club_name_KSV Cercle Brugge,3.7466260179041794e-06
+club_name_Cerro Largo Fútbol Club,3.744446041522801e-06
+club_name_1. FC Nürnberg,3.741893082839481e-06
+club_name_Hamburger SV,3.739632121437887e-06
+club_name_Wellington Phoenix,3.700552114194154e-06
+club_name_Kashiwa Reysol,3.697991705617118e-06
+club_name_Lech Poznań,3.6972324561652057e-06
+club_name_PFC CSKA Moscow,3.677856889252345e-06
+club_name_Reading,3.677609441811707e-06
+club_name_Grasshopper Club Zürich,3.6712422054645647e-06
+club_name_Le Havre AC,3.6615523265475694e-06
+club_name_Vitesse,3.643623646925211e-06
+club_name_Wycombe Wanderers,3.628732101695763e-06
+club_name_AEK Athens,3.6263748743096242e-06
+club_name_Everton,3.6200282649406103e-06
+club_name_St. Johnstone FC,3.6190415139701006e-06
+club_name_Club Atlético Aldosivi,3.611970289235325e-06
+club_name_Abha Club,3.5954853132465913e-06
+club_name_Jeonbuk Hyundai Motors,3.5811016931786736e-06
+club_name_FC Red Bull Salzburg,3.578919502079543e-06
+club_name_Djurgårdens IF,3.5741402570955792e-06
+club_name_Al Hilal,3.5709982908254736e-06
+club_name_Gallos Blancos de Querétaro,3.555041220146888e-06
+club_name_Patronato,3.5424372972627634e-06
+club_name_AFC Wimbledon,3.5341187524367565e-06
+club_name_FC U Craiova 1948,3.5309377334361368e-06
+club_name_DSC Arminia Bielefeld,3.4977588250452487e-06
+club_name_Club Atlético Central Córdoba,3.4971237029267787e-06
+club_name_Club Universidad Nacional,3.477644753367554e-06
+club_name_Perth Glory,3.4612463078857355e-06
+club_name_Club Tijuana,3.447987727932296e-06
+club_name_Blackburn Rovers,3.4332209443464875e-06
+club_name_Adelaide United,3.428884327907081e-06
+club_name_Cagliari,3.4092563981810225e-06
+club_name_Sport-Club Freiburg,3.391302797098866e-06
+club_name_IF Elfsborg,3.385425765133526e-06
+club_name_Hartlepool United,3.3852668314037637e-06
+club_name_LASK Linz,3.3820955641700806e-06
+club_name_F.C. København,3.37634422547332e-06
+club_name_F.C. Hansa Rostock,3.373745485025248e-06
+club_name_Southampton,3.3593888925876303e-06
+nationality_name_Israel,3.356774410181018e-06
+club_name_LOSC Lille,3.352069976182413e-06
+club_name_Bayer 04 Leverkusen,3.3248764449794655e-06
+club_name_Aytemiz Alanyaspor,3.3004079957942087e-06
+club_name_Melbourne City FC,3.2808536166318172e-06
+nationality_name_United Arab Emirates,3.2664910417530767e-06
+club_name_Inter Miami CF,3.264852387830653e-06
+club_name_AS Monaco,3.2516595732798537e-06
+club_name_AJ Auxerre,3.235073409616669e-06
+club_name_AS Saint-Étienne,3.2302850705365095e-06
+club_name_Demir Grup Sivasspor,3.2191364309265855e-06
+club_name_PGE FKS Stal Mielec,3.201963711790195e-06
+club_name_Club Atlético Colón,3.2018288752487658e-06
+club_name_AD Alcorcón,3.1996429261018933e-06
+club_name_SK Austria Klagenfurt,3.1675986515435028e-06
+club_name_Unión Deportiva Las Palmas,3.1570776559490362e-06
+club_name_Barcelona Sporting Club,3.153921646708788e-06
+club_name_Valenciennes FC,3.1524992841332423e-06
+club_name_Club Atlético Lanús,3.1420988449930593e-06
+nationality_name_Zimbabwe,3.131505656236795e-06
+club_name_Dundee United,3.1289086755839094e-06
+club_name_Sarpsborg 08 FF,3.124951593048171e-06
+club_name_Harrogate Town,3.115703578090604e-06
+club_name_12 de Octubre FC,3.102571589057967e-06
+club_name_Málaga CF,3.100566909747359e-06
+club_name_SD Huesca,3.0891307469888006e-06
+club_name_KV Oostende,3.0762838052742537e-06
+nationality_name_Iran,3.067186580754085e-06
+club_name_Atlético Nacional,3.0635945585510874e-06
+club_name_Argentinos Juniors,3.0584025634109985e-06
+club_name_SV Zulte Waregem,3.0411057413206748e-06
+club_name_Fiorentina,3.0246416294342784e-06
+club_name_Central Coast Mariners,3.023642185208081e-06
+club_name_FC Luzern,3.023530041347845e-06
+club_name_Stade de Reims,3.0066882232447037e-06
+club_name_Sydney FC,2.990678347469367e-06
+club_name_New York Red Bulls,2.9856661356321446e-06
+nationality_name_Montenegro,2.9848241055942117e-06
+club_name_Boca Juniors,2.9662112557687704e-06
+club_name_Oxford United,2.92494198865754e-06
+club_name_FC Lugano,2.917302566208386e-06
+nationality_name_Costa Rica,2.9006673075488343e-06
+club_name_Club Cerro Porteño,2.879999559922621e-06
+club_name_Club Deportivo Palestino,2.8735530498569646e-06
+club_name_Sparta Rotterdam,2.8594861903589594e-06
+club_name_Club Atlético Nacional Potosí,2.7837597110511604e-06
+club_name_Deportivo Pasto,2.779688321061791e-06
+club_name_SK Brann,2.7779664918093366e-06
+club_name_Galatasaray SK,2.7656354830826864e-06
+club_name_Daegu FC,2.74124103324892e-06
+club_name_Parma,2.699162704918438e-06
+club_name_New York City FC,2.6876681624846198e-06
+club_name_Club Deportes Tolima,2.6779849150905402e-06
+club_name_Real Salt Lake,2.6738707870735597e-06
+club_name_Metropolitanos de Caracas FC,2.6370292388040895e-06
+club_name_Rosenborg BK,2.619835185331202e-06
+club_name_Wigan Athletic,2.6152158149670524e-06
+club_name_Adana Demirspor,2.578733945408486e-06
+club_name_Gazişehir Gaziantep F.K.,2.540587275142493e-06
+club_name_Chamois Niortais Football Club,2.5201044728463726e-06
+nationality_name_Iraq,2.5185031301989297e-06
+club_name_Wisła Kraków,2.5090893322416336e-06
+club_name_Servette FC,2.4908740684491944e-06
+club_name_Olympiacos CFP,2.4820528200309212e-06
+club_name_CD Mirandés,2.4634103168918793e-06
+club_name_U.S. Sassuolo Calcio,2.45141204498105e-06
+club_name_Leyton Orient,2.4335494366248357e-06
+club_name_Yeni Malatyaspor,2.425949024971306e-06
+club_name_Crotone,2.4246579415368423e-06
+club_name_Morecambe,2.4222222613114346e-06
+club_name_SV Ried,2.415758261858835e-06
+club_name_Puebla FC,2.4123220198252614e-06
+club_name_Royale Union Saint-Gilloise,2.403641911545162e-06
+club_name_Western United FC,2.359854002612435e-06
+club_name_OGC Nice,2.354503638850775e-06
+club_name_Aberdeen,2.3398355460456475e-06
+club_name_Club Social y Deportivo Macará,2.3363328600207436e-06
+club_name_Unión La Calera,2.3257367169983658e-06
+club_name_FK Haugesund,2.286669998415788e-06
+club_name_AC Sparta Praha,2.283272431008443e-06
+club_name_São Paulo,2.2697112946985097e-06
+club_name_IFK Göteborg,2.2435562841692014e-06
+club_name_Cruz Azul,2.2411832711665256e-06
+nationality_name_Luxembourg,2.234987118159354e-06
+club_name_Cambridge United,2.2110583187698938e-06
+club_name_FC Nantes,2.2050283337951393e-06
+club_name_Club Necaxa,2.1971438599465734e-06
+club_name_Göztepe SK,2.161031498648368e-06
+club_name_Atakaş Hatayspor,2.1599175879628416e-06
+club_name_Gillingham,2.158418050446849e-06
+club_name_Rochdale,2.1176990266163932e-06
+club_name_Dinamo Zagreb,2.1165746481100733e-06
+club_name_BSC Young Boys,2.0654874959176535e-06
+club_name_Club The Strongest,2.0098737779205445e-06
+club_name_Montpellier Hérault SC,2.006478451510396e-06
+nationality_name_Lithuania,1.9916176854464844e-06
+club_name_FC Schalke 04,1.9647119891804974e-06
+club_name_Lincoln City,1.9160677354006565e-06
+club_name_İttifak Holding Konyaspor,1.9029095147560286e-06
+club_name_CD Tondela,1.9024207484265688e-06
+club_name_Sutton United,1.8962614483134622e-06
+club_name_Heart of Midlothian,1.8882523806991637e-06
+club_name_La Equidad,1.8881242518174994e-06
+club_name_Kristiansund BK,1.8486400198410226e-06
+club_name_Ross County FC,1.845041213456777e-06
+club_name_Cuiabá,1.7780885590782113e-06
+nationality_name_Uganda,1.7735054708719615e-06
+club_name_SK Rapid Wien,1.7325138496567337e-06
+club_name_St. Mirren,1.707727242155704e-06
+club_name_Strømsgodset IF,1.677740637721477e-06
+nationality_name_Congo,1.6733688142048904e-06
+club_name_Centro Atlético Fénix,1.6721683403186828e-06
+club_name_Oud-Heverlee Leuven,1.6486987812891695e-06
+club_name_MSV Duisburg,1.6432894278730835e-06
+club_name_San Lorenzo de Almagro,1.5243549247520818e-06
+nationality_name_Curacao,1.521754734514127e-06
+nationality_name_Sierra Leone,1.5174128652727074e-06
+club_name_IFK Norrköping,1.507975117763096e-06
+nationality_name_Comoros,1.4661017223738646e-06
+nationality_name_Bulgaria,1.4091917560669962e-06
+nationality_name_Panama,1.383136969669386e-06
+club_name_Nashville SC,1.3719405079915192e-06
+club_name_Viborg FF,1.3331637343433445e-06
+nationality_name_Guinea Bissau,1.3198378203883735e-06
+club_name_Stade Rennais FC,1.2888031150691192e-06
+nationality_name_Burundi,1.277023625473211e-06
+club_name_SV Sandhausen,1.2002960460857932e-06
+nationality_name_Kenya,1.1697048534482434e-06
+club_name_Al Ahli,1.1641179232042392e-06
+nationality_name_Azerbaijan,9.741883464122e-07
+nationality_name_South Sudan,7.914975473655098e-07
+club_name_Northampton Town,7.4522636755891e-07
+nationality_name_Malaysia,7.353723500891097e-07
+club_name_Club Universitario de Deportes,7.283354590667609e-07
+nationality_name_Haiti,5.874022643801991e-07
+club_name_Aarhus GF,5.302901209087103e-07
+nationality_name_Suriname,5.179236683095087e-07
+nationality_name_Benin,5.161960085068532e-07
+nationality_name_Armenia,4.84049598102923e-07
+nationality_name_Latvia,4.4479952774216354e-07
+nationality_name_Palestine,4.257286376099712e-07
+nationality_name_Hong Kong,4.002328096866893e-07
+nationality_name_Montserrat,3.9754660583942535e-07
+nationality_name_Saint Kitts and Nevis,3.364644906056324e-07
+club_name_América de Cali,1.603170958999765e-07
+nationality_name_Guyana,1.5401889860049397e-07
+nationality_name_Gabon,1.3455685355767262e-07
+nationality_name_Mozambique,1.0843948501555165e-07
+nationality_name_Honduras,4.829582975856057e-08
+nationality_name_Grenada,1.3928666611719364e-08
+nationality_name_Faroe Islands,0.0
+nationality_name_Fiji,0.0
+nationality_name_Gibraltar,0.0
+nationality_name_Chad,0.0
+nationality_name_Trinidad and Tobago,0.0
+nationality_name_Thailand,0.0
+nationality_name_Uzbekistan,0.0
+nationality_name_Vietnam,0.0
+nationality_name_Papua New Guinea,0.0
+nationality_name_Puerto Rico,0.0
+nationality_name_Tanzania,0.0
+nationality_name_Bhutan,0.0
+nationality_name_Estonia,0.0
+nationality_name_Ethiopia,0.0
+nationality_name_Eritrea,0.0
+nationality_name_Philippines,0.0
+nationality_name_Zambia,0.0
+nationality_name_Syria,0.0
+nationality_name_El Salvador,0.0
+nationality_name_Equatorial Guinea,0.0
+nationality_name_Cuba,0.0
+nationality_name_Chinese Taipei,0.0
+nationality_name_Central African Republic,0.0
+nationality_name_Belize,0.0
+nationality_name_Bermuda,0.0
+nationality_name_Afghanistan,0.0
+nationality_name_Andorra,0.0
+nationality_name_Antigua and Barbuda,0.0
+nationality_name_Guam,0.0
+nationality_name_Guatemala,0.0
+nationality_name_Dominican Republic,0.0
+nationality_name_Egypt,0.0
+nationality_name_Indonesia,0.0
+nationality_name_Jordan,0.0
+nationality_name_Kazakhstan,0.0
+nationality_name_Korea DPR,0.0
+nationality_name_Kyrgyzstan,0.0
+nationality_name_Belarus,0.0
+nationality_name_Barbados,0.0
+nationality_name_Saint Lucia,0.0
+nationality_name_Lebanon,0.0
+nationality_name_Madagascar,0.0
+nationality_name_Libya,0.0
+nationality_name_Liberia,0.0
+nationality_name_Malawi,0.0
+nationality_name_Sudan,0.0
+nationality_name_Malta,0.0
+nationality_name_Mauritania,0.0
+nationality_name_Moldova,0.0
+nationality_name_Mauritius,0.0
+nationality_name_Namibia,0.0
+nationality_name_Niger,0.0

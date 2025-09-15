@@ -1,0 +1,5 @@
+{
+  "train_matrix": "out/tables/Task18_features_train.csv",
+  "featset_A": "out/tables/Task19_selected_features_A.csv",
+  "featset_B": "out/tables/Task19_selected_features_B.csv"
+}

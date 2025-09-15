@@ -1,0 +1,25 @@
+sofifa_id,short_name,club_name,league_name,primary_position,role_group,overall,age,wage_eur,resid_z_log
+239106,L. Koutris,Fortuna Düsseldorf,German 2. Bundesliga,LB,DEF,72,25,900.0,-4.000470904785828
+262578,M. Vušković,Hamburger SV,German 2. Bundesliga,CB,DEF,72,19,500.0,-4.996922892796913
+210468,I. Kutepov,Spartak Moskva,Russian Premier League,CB,DEF,71,27,28000.0,4.1553449817215204
+225995,P. Stojanović,Empoli,Italian Serie A,RB,DEF,71,25,550.0,-5.840965940638631
+258607,Toti,Grasshopper Club Zürich,Swiss Super League,CB,DEF,63,22,11000.0,4.300872686707465
+260143,Z. Monlouis,Arsenal,English Premier League,CB,DEF,61,17,500.0,-4.363691535720593
+253969,L. Hjelde,Leeds United,English Premier League,CB,DEF,60,17,500.0,-4.1445222111997895
+210259,A. Hassan,İttifak Holding Konyaspor,Turkish Süper Lig,ST,FWD,73,28,1000.0,-4.463600641699883
+211048,O. Kayode,Demir Grup Sivasspor,Turkish Süper Lig,ST,FWD,71,28,750.0,-4.523533782543646
+220685,Léo Bonatini,Grasshopper Club Zürich,Swiss Super League,ST,FWD,69,27,34000.0,4.60930950931771
+213732,A. Selikhov,Spartak Moskva,Russian Premier League,GK,GK,72,27,26000.0,4.0824383176244
+228103,T. Akmurzin,Spartak Moskva,Russian Premier League,GK,GK,53,23,4000.0,4.576272498812575
+248214,A. Poplevchenkov,Spartak Moskva,Russian Premier League,GK,GK,52,21,3000.0,4.2591791717830825
+212755,J. Hendrix,Spartak Moskva,Russian Premier League,CDM,MID,74,26,39000.0,4.039314193958762
+231113,Z. Bakaev,Spartak Moskva,Russian Premier League,CAM,MID,74,25,41000.0,4.127692990261186
+257889,K. Jakić,Eintracht Frankfurt,German 1. Bundesliga,CDM,MID,73,24,600.0,-5.747149110509819
+246929,Gerson Rodrigues,ESTAC Troyes,French Ligue 1,LM,MID,72,26,750.0,-4.926916370108191
+223458,R. Mirzov,Spartak Moskva,Russian Premier League,LM,MID,71,28,32000.0,4.325890728932382
+243008,M. Trávník,Kasimpaşa SK,Turkish Süper Lig,CM,MID,71,27,750.0,-4.577592692658646
+257271,L. Gourna,AS Saint-Étienne,French Ligue 1,CDM,MID,70,17,700.0,-4.599101197317486
+252526,D. Males,FC Basel 1893,Swiss Super League,RM,MID,63,20,11000.0,4.20303777297101
+263620,R. Lavia,Manchester City,English Premier League,CDM,MID,62,17,700.0,-4.119615898870491
+256263,D. Markitesov,Spartak Moskva,Russian Premier League,RM,MID,56,20,6000.0,4.637583242795289
+246120,A. Martis,Macarthur FC,Australian Hyundai A-League,CDM,MID,52,20,3000.0,4.2927073109082565
