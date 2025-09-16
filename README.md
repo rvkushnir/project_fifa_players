@@ -44,9 +44,11 @@ https://colab.research.google.com/github/rvkushnir/project_fifa_players/blob/mai
 
 Структура репозиторію
 
+## Структура репозиторію
+
 project_fifa_players/
 ├─ data/
-│  ├─ raw/                # сирі дані (не в репозиторії; див. README.md та .gitkeep)
+│  ├─ raw/                # сирі дані (не в репо; див. README.md та .gitkeep)
 │  ├─ interim/            # проміжні (ігнорується Git)
 │  └─ processed/          # оброблені (ігнорується Git)
 ├─ out/
@@ -59,10 +61,11 @@ project_fifa_players/
 │  └─ ...                 # ноутбуки 01–07
 ├─ scripts/
 │  └─ export_best_model.py
-├─ app.py                 # (опціонально) Streamlit-додаток “Дізнай своє амплуа”
+├─ app.py                 # (опціонально) Streamlit-додаток "Дізнай своє амплуа"
 ├─ config.yaml            # конфіг для сервісу/скриптів
 ├─ requirements.txt
 └─ README.md              # цей файл
+
 Дані
 
 Джерело: офіційні/напівофіційні витяги атрибутів FIFA (прикладом — sofifa_id, переліки player_positions, технічні атрибути).
