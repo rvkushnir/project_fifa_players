@@ -44,9 +44,9 @@ https://colab.research.google.com/github/rvkushnir/project_fifa_players/blob/mai
 
 Структура репозиторію
 
-### Структура репозиторію
+# Структура репозиторію
 
-project_fifa_players/
+```project_fifa_players/
 ├─ data/
 │  ├─ raw/                # сирі дані (не в репо; див. README.md та .gitkeep)
 │  ├─ interim/            # проміжні (ігнорується Git)
@@ -65,6 +65,7 @@ project_fifa_players/
 ├─ config.yaml            # конфіг для сервісу/скриптів
 ├─ requirements.txt
 └─ README.md              # цей файл
+```
 
 Дані
 
