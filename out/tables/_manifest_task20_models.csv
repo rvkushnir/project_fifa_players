@@ -1,5 +1,7 @@
 bucket,path,exists,size,mtime,head_rows
-tables,out/tables/Task20_FULL_results_summary.csv,True,4763,Tue Sep 16 22:17:01 2025,3
-tables,out/tables/Task20_FULL_runs_detailed.csv,True,22597,Tue Sep 16 22:17:01 2025,3
-tables,out/tables/Task20_multilabel_folds.csv,False,0,-,-
-tables,out/tables/Task20_multilabel_results.csv,False,0,-,-
+models,models/task20_singlelabel_A48_with_leak_flat_lr_20250916_232015.metadata.json,True,1533,Tue Sep 16 23:20:15 2025,-
+models,models/task20_singlelabel_A48_with_leak_flat_lr_20250916_232015.pkl,True,23793,Tue Sep 16 23:20:15 2025,-
+tables,out/tables/Task20_FULL_results_summary.csv,True,4763,Tue Sep 16 22:52:47 2025,3
+tables,out/tables/Task20_FULL_runs_detailed.csv,True,22597,Tue Sep 16 22:52:47 2025,3
+tables,out/tables/Task20_multilabel_folds.csv,True,2214,Tue Sep 16 23:15:09 2025,3
+tables,out/tables/Task20_multilabel_results.csv,True,590,Tue Sep 16 23:15:09 2025,2
