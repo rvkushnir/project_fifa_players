@@ -1,0 +1,5 @@
+bucket,path,exists,size,mtime,head_rows
+tables,out/tables/Task20_FULL_results_summary.csv,True,4763,Tue Sep 16 22:17:01 2025,3
+tables,out/tables/Task20_FULL_runs_detailed.csv,True,22597,Tue Sep 16 22:17:01 2025,3
+tables,out/tables/Task20_multilabel_folds.csv,False,0,-,-
+tables,out/tables/Task20_multilabel_results.csv,False,0,-,-
