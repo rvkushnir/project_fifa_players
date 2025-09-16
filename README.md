@@ -44,7 +44,7 @@ https://colab.research.google.com/github/rvkushnir/project_fifa_players/blob/mai
 
 Структура репозиторію
 
-## Структура репозиторію
+### Структура репозиторію
 
 project_fifa_players/
 ├─ data/
