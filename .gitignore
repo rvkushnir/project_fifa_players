@@ -225,7 +225,6 @@ Thumbs.db
 
 # Артефакты и аутпуты
 out/
-models/
 artifacts/
 
 # Данные: не коммитим сирі та кеші
@@ -259,5 +258,12 @@ data/raw/*
 
 !/out/figures/
 !/out/figures/*.png
+
+# === Publish model artifacts (allowlist) ===
+!/models/
+!/models/best_model.pkl
+!/models/metadata.json
+# Если иногда экспортируешь joblib:
+!/models/best_model.joblib
 
 
